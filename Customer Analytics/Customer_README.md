@@ -19,3 +19,9 @@ The dataset provides comprehensive information on customer transactions for 2022
 
 Steps taken to clean and prepare the dataset for analysis can be found here.
 A detailed workbook with analysis and insights can be accessed here.
+
+## Summary of Insights
+
+
+
+## Technical Analysis
