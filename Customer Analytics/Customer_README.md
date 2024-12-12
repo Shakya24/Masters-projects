@@ -52,7 +52,7 @@ The exploratory data analysis phase of the project helped me uncover following k
 
   - Brand Popularity:
     The wordcloud represents regional preferences in brand popularity across categories, which can be leveraged for targeted marketing and inventory planning.
-    ![popularity](Customer%20Analytics/Visualizations/popularity.webp)
+    ![popularity](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/popularity.webp)
     Brand Popularity
 
 **Sales Channel and Store Analysis**
