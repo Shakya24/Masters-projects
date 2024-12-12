@@ -50,15 +50,19 @@ The exploratory data analysis phase of the project helped me uncover following k
    69% of customers have only one transaction, while 18% have two transactions, and 13% have three or more transactions.
    Customers with three or more transactions account for 45% of total revenue, indicating the importance of repeat customers.
 
+  - Brand Popularity:
+    The wordcloud represents regional preferences in brand popularity across categories, which can be leveraged for targeted marketing and inventory planning.
+
 **Sales Channel and Store Analysis**
 
   - Country and Channel Breakdown:
     83.52% of transactions originate from Singapore, while 16.48% are from Malaysia.
-    Retail contributes to 75% of total sales, with eCommerce accounting for the remaining 25%.
+    Retail is the dominant channel, contributing 88.8% of total revenue followed by eCommerce stores contributing 10.4% of total revenue.
     In Malaysia, 100% of sales are through Retail and eCommerce, with no Corporate or Third-Party Marketplace sales recorded.
 
   - Yearly Trends:
     Retail orders in 2023 increased by 25% compared to 2022, with significant growth across all months except January and February.
+    
 
 
 ## Technical Analysis
