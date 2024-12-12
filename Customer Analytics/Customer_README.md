@@ -24,13 +24,12 @@ A detailed workbook with analysis and insights can be accessed here.
 
 The exploratory data analysis phase of the project helped me uncover following key insights:
 
--Sales and Brand Insights
+# Sales and Brand Insights
 
-Sales by Brand:
-
-92% of products are sold primarily in retail stores, while 8% are sold through eCommerce channels.
-Brand D and Brand B have a significantly higher share of eCommerce sales (30%) compared to other brands (average of 5%).
-Home collection products contribute to 25% of total sales for Brand D and Brand F, making it a key category for these brands.
+-Sales by Brand:
+  92% of products are sold primarily in retail stores, while 8% are sold through eCommerce channels.
+  Brand D and Brand B have a significantly higher share of eCommerce sales (30%) compared to other brands (average of 5%).
+  Home collection products contribute to 25% of total sales for Brand D and Brand F, making it a key category for these brands.
 
 
 ## Technical Analysis
