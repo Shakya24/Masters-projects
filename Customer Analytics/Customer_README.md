@@ -36,5 +36,28 @@ The exploratory data analysis phase of the project helped me uncover following k
    65% of free skincare products were distributed via eCommerce channels compared to 35% via retail.
    Despite this, the sales of skincare products declined by 12% over the last year, suggesting limited effectiveness of free sample strategies.
 
+**Customer Demographics and Behavior**
+  
+  -Gender Breakdown:
+  Gender information is missing for 43% of retail customers and 66% of eCommerce customers.
+  Among known genders, 78% of retail purchases and 91% of eCommerce purchases are made by females, emphasizing the strong influence of female buyers.
+
+  -Age Distribution:
+  The average customer age is 39.88 years, with 114 customers over 100 years old, likely input errors for promotional benefits.
+  Customers aged 25-45 contribute to 60% of total transactions, highlighting a key demographic for targeted marketing.
+
+  -Customer Transactions:
+   69% of customers have only one transaction, while 18% have two transactions, and 13% have three or more transactions.
+   Customers with three or more transactions account for 45% of total revenue, indicating the importance of repeat customers.
+
+**Sales Channel and Store Analysis**
+  -Country and Channel Breakdown:
+    83.52% of transactions originate from Singapore, while 16.48% are from Malaysia.
+    Retail contributes to 75% of total sales, with eCommerce accounting for the remaining 25%.
+    In Malaysia, 100% of sales are through Retail and eCommerce, with no Corporate or Third-Party Marketplace sales recorded.
+
+  -Yearly Trends:
+   Retail orders in 2023 increased by 25% compared to 2022, with significant growth across all months except January and February.
+
 
 ## Technical Analysis
