@@ -17,7 +17,8 @@ Established in 2018, this beauty store (retail and online) offers a diverse rang
 
 The dataset provides comprehensive information on customer transactions for 2022 and 2023, covering details such as purchase dates, countries, stores, brands, product categories, sales channels, and other product-specific information. This rich dataset offers a holistic view of customer purchasing behavior across various dimensions, enabling in-depth analysis and actionable insights.
 
-Steps taken to clean and prepare the dataset for analysis can be found [here](Masters-projects/Customer%20Analytics/Data%20cleaning%20Customer.pdf)
+Steps taken to clean and prepare the dataset for analysis can be found [here]([Data Cleaning Document](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Data%20cleaning%20Customer.pdf)
+)
 
 
 ## Summary of Insights
