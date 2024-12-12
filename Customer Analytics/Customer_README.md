@@ -31,5 +31,10 @@ The exploratory data analysis phase of the project helped me uncover following k
     Brand D and Brand B have a significantly higher share of eCommerce sales (30%) compared to other brands (average of 5%).
     Home collection products contribute to 25% of total sales for Brand D and Brand F, making it a key category for these brands.
 
+ -  Free Product Distribution:
+   Fragrances account for 45% of free products distributed, followed by skincare at 30%.
+   65% of free skincare products were distributed via eCommerce channels compared to 35% via retail.
+   Despite this, the sales of skincare products declined by 12% over the last year, suggesting limited effectiveness of free sample strategies.
+
 
 ## Technical Analysis
