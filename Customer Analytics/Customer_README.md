@@ -37,16 +37,16 @@ The exploratory data analysis phase of the project helped me uncover following k
    Despite this, the sales of skincare products declined by 12% over the last year, suggesting limited effectiveness of free sample strategies.
 
 **Customer Demographics and Behavior**
-  
-  -Gender Breakdown:
+
+  - Gender Breakdown:
   Gender information is missing for 43% of retail customers and 66% of eCommerce customers.
   Among known genders, 78% of retail purchases and 91% of eCommerce purchases are made by females, emphasizing the strong influence of female buyers.
 
-  -Age Distribution:
+  - Age Distribution:
   The average customer age is 39.88 years, with 114 customers over 100 years old, likely input errors for promotional benefits.
   Customers aged 25-45 contribute to 60% of total transactions, highlighting a key demographic for targeted marketing.
 
-  -Customer Transactions:
+  - Customer Transactions:
    69% of customers have only one transaction, while 18% have two transactions, and 13% have three or more transactions.
    Customers with three or more transactions account for 45% of total revenue, indicating the importance of repeat customers.
 
