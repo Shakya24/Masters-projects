@@ -26,7 +26,7 @@ The exploratory data analysis phase of the project helped me uncover following k
 
 **Sales and Brand Insights**
 
-  -  Sales by Brand:
+  - Sales by Brand:
     92% of products are sold primarily in retail stores, while 8% are sold through eCommerce channels.
     Brand D and Brand B have a significantly higher share of eCommerce sales (30%) compared to other brands (average of 5%).
     Home collection products contribute to 25% of total sales for Brand D and Brand F, making it a key category for these brands.
@@ -51,13 +51,14 @@ The exploratory data analysis phase of the project helped me uncover following k
    Customers with three or more transactions account for 45% of total revenue, indicating the importance of repeat customers.
 
 **Sales Channel and Store Analysis**
-  -Country and Channel Breakdown:
+
+  - Country and Channel Breakdown:
     83.52% of transactions originate from Singapore, while 16.48% are from Malaysia.
     Retail contributes to 75% of total sales, with eCommerce accounting for the remaining 25%.
     In Malaysia, 100% of sales are through Retail and eCommerce, with no Corporate or Third-Party Marketplace sales recorded.
 
-  -Yearly Trends:
-   Retail orders in 2023 increased by 25% compared to 2022, with significant growth across all months except January and February.
+  - Yearly Trends:
+    Retail orders in 2023 increased by 25% compared to 2022, with significant growth across all months except January and February.
 
 
 ## Technical Analysis
