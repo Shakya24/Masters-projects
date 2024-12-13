@@ -5,7 +5,7 @@ Table of Contents
 - [Project Background](#project-background)
 - [About the Data](#about-data)
 - [Feature Engineering](#feature-Engineering)
-- [Technical Analysis](#technical-analysis)
+- [Model Building](#model-building)
 - [Recommendations](#recommendations)
 
 ***
@@ -42,3 +42,9 @@ I used features such as amount_spent in original form while created new features
 | first_time_shopper | Checks if a customer is a first time shopper or not |
 
 
+# Model Building
+
+1. **Data Preprocessing:**
+    - No missing or duplicate values were present.
+    - Categorical features, such as gender, were encoded into binary values.
+    - The dataset was split into 70% training, 10% validation, and 20% test data, ensuring stratification to maintain class balance across splits.
