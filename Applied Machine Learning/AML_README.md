@@ -4,7 +4,7 @@ Table of Contents
 
 - [Project Background](#project-background)
 - [About the Data](#about-data)
-- [Summary of Insights](#summary-of-insights)
+- [Feature Engineering](#feature-Engineering)
 - [Technical Analysis](#technical-analysis)
 - [Recommendations](#recommendations)
 
@@ -21,4 +21,4 @@ information of 1,000 customers doing transactions with a pool of 800 merchants.
 Steps taken to clean and prepare the dataset for analysis can be found [here](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Data%20cleaning%20Customer.pdf)
 
 
-## Summary of Insights
+## Feature Engineering
