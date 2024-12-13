@@ -128,7 +128,7 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 
 ## Recommendations
 
-1. Customer Engagement Cycle: Based on the [Cohort Analysis](#Cohort%20Analysis), I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
+1. Customer Engagement Cycle: Based on the [Cohort Analysis](#cohort-analysis), I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
 - Stock replenishment rate can follow customer purchase cycle to reduce aging inventory
 - Based on this purchasing cycle, promotion campaign can also be planned to secure customers' orders
 
