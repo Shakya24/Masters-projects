@@ -126,7 +126,7 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 1. Category Level Insights: Based on the visuals below for the 3 customer segements:
    High Value Customers: As the number of categories increase, lift value tends to increase. Bath and body are also positively associated with the purchase of subsets of skin care, home        collection and fragrance products. Skin care and home collection also have the highest association to the purchase of bath and body and fragrance products.
    
-   ![highvalue](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/Highvalue.webp)
+   ![highvalue](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/Highvalue.png)
 
    At Risk Customers:Home Collection is positively associated with the purchase of multiple categories, such as bath and body, haircare, skincare. The highest positive association can be   
    seen in skin care and home collection being associated with the purchase of bath and body and fragrance category.
