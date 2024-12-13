@@ -96,13 +96,13 @@ These attributes were concatenated into unique RFM segments representing custome
 
 
 **Customer Churn**
-1. Cohort Analysis: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
+1. **Cohort Analysis**: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
 
  ![cohort](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/cohort.webp)
 
 From this chart, we can observe that are in the first 2 month cohort of 2022, especially in the first month, there is an abnormal rate in repurchasing rate for customers which starts to stabilize in the 3rd cohort of 2022. At first glance, we can observe that customers tend to repurchase every 6 to 8 months. This is especially evident for cohorts that are more active, for example, cohort 2022-03 and 2022-08. Based on this I decided to set churn period of customers to be **7 months**.
 
-2. Feature Engineering: Derived critical features from the dataset to capture customer behavior:
+2. **Feature Engineering**: Derived critical features from the dataset to capture customer behavior:
 - Frequency: Total number of purchases by a customer.
 - Average Basket Size and Basket Value: Indicators of spending behavior.
 - Free Quantity: Total number of free samples received.
@@ -110,14 +110,15 @@ From this chart, we can observe that are in the first 2 month cohort of 2022, es
 
 Correlation analysis ensured low to moderate correlation among features to prevent redundancy in the model
 
-3. Machine Learning Model: XGBoost was selected for its robustness in handling tabular data.
+3. **Machine Learning Model and Hyperparameter Tuning**: XGBoost was selected for its robustness in handling tabular data.
 Steps included:
 - SMOTE to address class imbalance in churned vs. active customers.
 - Hyperparameter tuning using random search for optimal model performance.
 
 The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, reflecting strong predictive capabilities
 
-4. Feature Importance: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn.
+4. **Feature Importance**: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn.
 
+ ![shap](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/SHAP.webp)
 
 ## Recommendations
