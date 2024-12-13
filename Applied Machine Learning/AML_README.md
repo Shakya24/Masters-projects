@@ -31,7 +31,7 @@ I used features such as amount_spent in original form while created new features
 | Gender_Numeric  | Encoded gender of customer          |
 | City_pop        | Population of the customer city     |
 | Cc_count        | Count of credit cards per customer  |
-| Row 5, Cell 1  | Row 5, Cell 2  |
+| address_multiple_customer_flag  | Checks if an address has more than one customer  |
 | Row 6, Cell 1  | Row 6, Cell 2  |
 | Row 7, Cell 1  | Row 7, Cell 2  |
 | Row 8, Cell 1  | Row 8, Cell 2  |
