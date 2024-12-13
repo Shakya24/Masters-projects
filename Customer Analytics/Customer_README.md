@@ -135,14 +135,18 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 **2. Customer Churn:** Based on the churn model, I identified that the main factors affecting churn are the frequency of customer purchases, the number of freebies obtained, the average basket size, and the amount of fragrance purchased. To reduce customer churn, Store-X should focus on keeping customers engaged to encourage them to remain active and continue purchasing. Providing **samples can be an effective strategy** to retain customer interest. Since basket size has a direct impact on churn, Store-X should prioritize **increasing the frequency of customer purchases** rather than solely trying to grow the basket size.
 
 **3. Cross Selling Strategies** :Based on the segmentation analysis using RFM results, the following recommendations are proposed to optimize cross-selling strategies and enhance customer engagement across different segments:
+
 **High-Value and At-Risk Customers:**
+
 - Cross-Selling Across Categories:
   - Focus on promoting product combinations across Skin Care, Home Collection, Bath & Body, and Fragrance categories.
   - Leverage positive associations between these categories to create curated bundles and drive larger basket sizes.
 - Experimentation with Brands:
   - Expand cross-selling strategies to include additional brands beyond existing associations, to identify whether customer preferences are driven by product type or brand loyalty
   - Highlight strong brand pairings such as Brand B Fragrance, Brand D, and Brand M to deepen customer engagement.
+    
 **Low-Value Customers:**
+
 - Increasing Purchase Frequency and Basket Size:
   Encourage purchases from other categories beyond their typical choices of Skin Care and Fragrance by offering:
     - Free Samples: Introduce complementary products to increase category awareness and drive trial.
