@@ -128,10 +128,10 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 
 ## Recommendations
 
-1. Customer Engagement Cycle: Based on the Cohort Analysis, I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
-- Stock replenishment rate can follow customer purchase cycle to reduce aging inventory
-- Based on this purchasing cycle, promotion campaign can also be planned to secure customers' orders
+**1. Customer Engagement Cycle:** Based on the Cohort Analysis, I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
+  - Stock replenishment rate can follow customer purchase cycle to reduce aging inventory
+  - Based on this purchasing cycle, promotion campaign can also be planned to secure customers' orders
 
-2. Customer Churn: Based on the churn model, I identified that the main factors affecting churn are the frequency of customer purchases, the number of freebies obtained, the average basket size, and the amount of fragrance purchased. To reduce customer churn, Store-X should focus on keeping customers engaged to encourage them to remain active and continue purchasing. Providing samples can be an effective strategy to retain customer interest. Since basket size has a direct impact on churn, Store-X should prioritize increasing the frequency of customer purchases rather than solely trying to grow the basket size.
+**2. Customer Churn:** Based on the churn model, I identified that the main factors affecting churn are the frequency of customer purchases, the number of freebies obtained, the average basket size, and the amount of fragrance purchased. To reduce customer churn, Store-X should focus on keeping customers engaged to encourage them to remain active and continue purchasing. Providing **samples can be an effective strategy** to retain customer interest. Since basket size has a direct impact on churn, Store-X should prioritize **increasing the frequency of customer purchases** rather than solely trying to grow the basket size.
 
-3. 
+**3. Cross Selling Strategies** 
