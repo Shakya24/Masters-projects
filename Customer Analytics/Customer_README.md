@@ -83,9 +83,9 @@ Customer segmentation was performed using the RFM (Recency, Frequency, Monetary)
 These attributes were concatenated into unique RFM segments representing customer groups with varying behaviors and value
 
 **Derived Customer Segments**
-  - High Value customers characterized by - Very recent purchase, High frequency of purchase and High total value amount of purchase
-  - At Risk Customers characterized by - Last purchase in first 8 months of study,High frequency of purchase and High total value amount of purchase
-  - Low Value Customers characterized by - Only 2 purchases in entire time period and Low total value amount of purchase
+  - **High Value customers** characterized by - Very recent purchase, High frequency of purchase and High total value amount of purchase
+  - **At Risk Customers** characterized by - Last purchase in first 8 months of study,High frequency of purchase and High total value amount of purchase
+  - **Low Value Customers** characterized by - Only 2 purchases in entire time period and Low total value amount of purchase
 
 **Customer Churn**
 1. **Cohort Analysis**: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
