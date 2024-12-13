@@ -72,5 +72,11 @@ The exploratory data analysis phase of the project helped me uncover following k
 **Customer Segmentation**
 
 
+**Market Basket Analysis**
+
+
+**Customer Churn**
+
+
 
 ## Recommendations
