@@ -11,7 +11,7 @@ Table of Contents
 ***
 
 ## Project Background
-Established in 2018, Store-X beauty store (retail and online) offers a diverse range of skincare, makeup, and personal care products to customers in Singapore and Malaysia. In this project, I partnered with this brand's Digital Campaign Manager to analyse real customer data to uncover trends in behavior, product preferences, and operational efficiency. The analysis addressed critical challenges, including customer retention, decision fatigue caused by an extensive product range, and the need for personalized shopping experiences.Based on the findings, I delivered actionable recommendations to enhance customer engagement and drive sustainable business growth.
+This project on Credit Card Fraud Prediction focuses on implementing strategies and technologies to proactively identify and mitigate fraudulent activities in credit transactions. By leveraging machine learning algorithms and data analysis, the project aims to develop a robust system that can detect unusual patterns and suspicious behaviors indicative of fraud.
 
 ## About-data
 
