@@ -110,6 +110,14 @@ From this chart, we can observe that are in the first 2 month cohort of 2022, es
 
 Correlation analysis ensured low to moderate correlation among features to prevent redundancy in the model
 
+3. Machine Learning Model: XGBoost was selected for its robustness in handling tabular data.
+Steps included:
+- SMOTE to address class imbalance in churned vs. active customers.
+- Hyperparameter tuning using random search for optimal model performance.
+
+The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, reflecting strong predictive capabilities
+
+4. Feature Importance: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn.
 
 
 ## Recommendations
