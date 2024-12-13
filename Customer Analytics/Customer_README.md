@@ -75,10 +75,11 @@ Customer segmentation was performed using the RFM (Recency, Frequency, Monetary)
 -  RFM Framework Construction:
   -  Recency (R):Quantified as the number of days since the customer’s last purchase. Binned into three quantile-based splits, ensuring an equal distribution of customers in each bin.
   -  Frequency (F):Number of purchase transactions per customer. Binned based on whether customers interacted 2, 3, or 4 times during the observation period.
-  -  Monetary (M): Average order size (AOS) for each customer. Binned into three levels:
-                    - Low (<0.5x AOS)
-                    - Medium (0.5–1x AOS)
-                    - High (>1x AOS)
+  -  Monetary (M):Average order size (AOS) for each customer. Binned into three levels:
+    -  Low (<0.5x AOS)
+    -  Medium (0.5–1x AOS)
+    -  High (>1x AOS)
+
 These attributes were concatenated into unique RFM segments representing customer groups with varying behaviors and value
 
 
