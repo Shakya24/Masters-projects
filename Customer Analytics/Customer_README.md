@@ -72,13 +72,10 @@ The exploratory data analysis phase of the project helped me uncover following k
 **Customer Segmentation**
 Customer segmentation was performed using the RFM (Recency, Frequency, Monetary) framework to analyze customer behaviors and create actionable insights for targeted strategies.
 
--RFM Framework Construction:
-  -  Recency (R):Quantified as the number of days since the customer’s last purchase.
-                 Binned into three quantile-based splits, ensuring an equal distribution of customers in each bin.
-  -  Frequency (F):Number of purchase transactions per customer.
-                   Binned based on whether customers interacted 2, 3, or 4 times during the observation period.
-  -  Monetary (M): Average order size (AOS) for each customer.
-                   Binned into three levels:
+-  RFM Framework Construction:
+  -  Recency (R):Quantified as the number of days since the customer’s last purchase. Binned into three quantile-based splits, ensuring an equal distribution of customers in each bin.
+  -  Frequency (F):Number of purchase transactions per customer. Binned based on whether customers interacted 2, 3, or 4 times during the observation period.
+  -  Monetary (M): Average order size (AOS) for each customer. Binned into three levels:
                     - Low (<0.5x AOS)
                     - Medium (0.5–1x AOS)
                     - High (>1x AOS)
