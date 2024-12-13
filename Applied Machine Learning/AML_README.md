@@ -45,3 +45,7 @@ I used features such as amount_spent in original form while created new features
     - No missing or duplicate values were present.
     - Categorical features, such as gender, were encoded into binary values.
     - The dataset was split into 70% training, 10% validation, and 20% test data, ensuring stratification to maintain class balance across splits.
+
+2. **Handling class Imbalance**
+    To address the extreme imbalance (0.57% of fraud class) in the dataset, SMOTE (Synthetic Minority Oversampling Technique) was applied to the training data.
+    Fraudulent transactions in the training set were ** increased to 50% using SMOTE**, ensuring models had sufficient representation of the minority class for learning patterns indicative of fraud.
