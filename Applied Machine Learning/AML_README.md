@@ -33,7 +33,8 @@ I used features such as amount_spent in original form while created new features
 | Cc_count        | Count of credit cards per customer  |
 | address_multiple_customer_flag  | Checks if an address has more than one customer  |
 | fraud_likelihood_merchant  | Checks the % of fraud transactions by each merchant out of total transactions by the merchant. Flag if % is more than 1.|
-| fraud_likelihood_category  | Checks if an item category belongs to high, medium or low risk. Categories with >20% fraud transactions are high risk. Categories with 5-20% fraud transactions are medium risk|
+| fraud_likelihood_category  | Checks if an item category belongs to high, medium or low risk. 
+Categories with >20% fraud transactions are high risk. Categories with 5-20% fraud transactions are medium risk|
 | transaction_distance  | Calculates distance between merchant and customer for transaction  |
 | fraud_likelihood_job  | Checks if a job category belongs to high, medium or low risk.Categories with >2% fraud transactions are high risk. Categories with >1% fraud transactions are medium risk|
 | fraud_likelihood_age | Classifies age-groups into highly likely and less likely with respect to fraud likelihood |
