@@ -62,3 +62,5 @@ I used features such as amount_spent in original form while created new features
 
 ## Model Comparison
 
+Models were evaluated using metrics critical for fraud detection, including Accuracy, Recall, Precision, F1 Score, and AUC (Area Under Curve). Given the business objective of minimizing missed fraudulent transactions, **Recall was prioritized.**
+
