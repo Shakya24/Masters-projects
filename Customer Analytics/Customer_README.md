@@ -91,13 +91,24 @@ These attributes were concatenated into unique RFM segments representing custome
 
 
 
+
 **Market Basket Analysis**
 
 
 **Customer Churn**
-Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
+1. Cohort Analysis: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
 
  ![cohort](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/cohort.webp)
+
+From this chart, we can observe that are in the first 2 month cohort of 2022, especially in the first month, there is an abnormal rate in repurchasing rate for customers which starts to stabilize in the 3rd cohort of 2022. At first glance, we can observe that customers tend to repurchase every 6 to 8 months. This is especially evident for cohorts that are more active, for example, cohort 2022-03 and 2022-08. Based on this I decided to set churn period of customers to be **7 months**.
+
+2. Feature Engineering: Derived critical features from the dataset to capture customer behavior:
+- Frequency: Total number of purchases by a customer.
+- Average Basket Size and Basket Value: Indicators of spending behavior.
+- Free Quantity: Total number of free samples received.
+- Last Purchase Date: Used to compute churn labels; Assign churn label ‘1’ if customer last purchase is more than 7 months ago, otherwise label ‘0’ is given
+
+Correlation analysis ensured low to moderate correlation among features to prevent redundancy in the model
 
 
 
