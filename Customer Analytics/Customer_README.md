@@ -136,14 +136,14 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 
 **3. Cross Selling Strategies** 
 Based on the segmentation analysis using RFM results, the following recommendations are proposed to optimize cross-selling strategies and enhance customer engagement across different segments:
-    **High-Value and At-Risk Customers:**
+**High-Value and At-Risk Customers:**
       - Cross-Selling Across Categories:
         - Focus on promoting product combinations across Skin Care, Home Collection, Bath & Body, and Fragrance categories.
         - Leverage positive associations between these categories to create curated bundles and drive larger basket sizes.
       - Experimentation with Brands:
         - Expand cross-selling strategies to include additional brands beyond existing associations, to identify whether customer preferences are driven by product type or brand loyalty
         - Highlight strong brand pairings such as Brand B Fragrance, Brand D, and Brand M to deepen customer engagement.
-    **Low-Value Customers:**
+**Low-Value Customers:**
       - Increasing Purchase Frequency and Basket Size:
         Encourage purchases from other categories beyond their typical choices of Skin Care and Fragrance by offering:
           - Free Samples: Introduce complementary products to increase category awareness and drive trial.
