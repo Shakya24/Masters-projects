@@ -22,3 +22,13 @@ Steps taken to clean and prepare the dataset for analysis can be found [here](ht
 
 
 ## Feature Engineering
+
+I used features such as amount_spent in original form while created new features as summarized below to emulate the markers of credit card fraud.
+
+# 2x2 Table Example
+
+| Column 1       | Column 2       |
+|-----------------|----------------|
+| Row 1, Cell 1  | Row 1, Cell 2  |
+| Row 2, Cell 1  | Row 2, Cell 2  |
+
