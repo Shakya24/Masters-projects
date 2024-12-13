@@ -42,7 +42,7 @@ I used features such as amount_spent in original form while created new features
 | first_time_shopper | Checks if a customer is a first time shopper or not |
 
 
-# Model Building
+## Model Building
 
 1. **Data Preprocessing:**
     - No missing or duplicate values were present.
