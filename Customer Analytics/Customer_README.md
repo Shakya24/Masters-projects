@@ -124,9 +124,18 @@ The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, ref
 Market Basket Analysis (MBA) was performed to identify relationships and associations between products purchased together, uncovering insights into customer buying patterns.I calculated **LIFT** values across category and brand to determine which products and categories are most frequently purchased together, enabling targeted cross-selling and bundling strategies.A lift value greater than 1 indicates a strong positive association between products/categories.
 
 1. Category Level Insights: Based on the visuals below for the 3 customer segements:
-   High Value Customers: As the number of categories increase, lift value tends to increase. Bath and body are also positively associated with the purchase of subsets of skin care, home collection and fragrance products. Skin care and home collection also have the highest association to the purchase of bath and body and fragrance products.
+   High Value Customers: As the number of categories increase, lift value tends to increase. Bath and body are also positively associated with the purchase of subsets of skin care, home        collection and fragrance products. Skin care and home collection also have the highest association to the purchase of bath and body and fragrance products.
+   
    ![highvalue](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/Highvalue.webp)
-  
+
+   At Risk Customers:Home Collection is positively associated with the purchase of multiple categories, such as bath and body, haircare, skincare. The highest positive association can be   
+   seen in skin care and home collection being associated with the purchase of bath and body and fragrance category.
+
+    ![atrisk](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/atrisk.webp)
+
+   Low Value Customers:The lift association rules by category shows that there is more positive association between purchase of 3rd product category (skincare/ bath and body) when 2 product    categories are already purchased. Skin care and fragrance are the common denominators in these instances.
+
+   ![lowvalue](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/lowvalue.webp)
    
 3. Brand Level Insights:
 
