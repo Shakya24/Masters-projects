@@ -150,6 +150,6 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 - Increasing Purchase Frequency and Basket Size:
   Encourage purchases from other categories beyond their typical choices of Skin Care and Fragrance by offering:
     - Free Samples: Introduce complementary products to increase category awareness and drive trial.
-    - Bundling Deals: Create value bundles combining commonly purchased items (e.g., Byredo Fragrance, The Ordinary, and Diptyque) with products from other categories.
+    - Bundling Deals: Create value bundles combining commonly purchased items (e.g., Brand B Fragrance, Brand O, and Brand D) with products from other categories.
 -  Focus on Frequent Purchases:
    Design promotions that incentivize repeat purchases, such as "Buy 2, get 1 free" or loyalty points for purchases across multiple categories.
