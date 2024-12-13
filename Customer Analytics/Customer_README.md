@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aec903bd-5b0b-4fda-86e3-6ec45f13a081)![image](https://github.com/user-attachments/assets/eedc0d05-f050-4902-9bf8-b4713ae0068d)# Customer-Analytics
+# Customer-Analytics
 
 Table of Contents
 
