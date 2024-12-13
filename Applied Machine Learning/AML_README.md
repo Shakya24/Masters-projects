@@ -6,6 +6,8 @@ Table of Contents
 - [About the Data](#about-data)
 - [Feature Engineering](#feature-Engineering)
 - [Model Building](#model-building)
+- [Model Comparison](#model-comparison)
+- [Feature Importance](#feature-importance)
 - [Recommendations](#recommendations)
 
 ***
