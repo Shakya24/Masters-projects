@@ -109,7 +109,11 @@ Steps included:
 
 The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, reflecting strong predictive capabilities
 
-4. **Feature Importance**: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn with frequency, quantity of free gift obtained and spending on fragrance inversely proportional to churn, while basket size being directly proportional to churn.
+4. **Feature Importance**: Using SHAP values, key churn predictors were identified:
+- Frequency of Purchases: Customers with higher purchase frequencies were less likely to churn.
+- Free Quantity Received: Free samples reduced churn likelihood.
+- Spending on Fragrance: Higher spending on fragrance correlated with lower churn.
+- Basket Size: Larger basket sizes increased churn probability, suggesting the importance of frequent, smaller purchases 
 
  ![shap](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/SHAP.webp)
 
