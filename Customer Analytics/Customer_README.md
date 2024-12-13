@@ -81,7 +81,7 @@ Customer segmentation was performed using the RFM (Recency, Frequency, Monetary)
 
 These attributes were concatenated into unique RFM segments representing customer groups with varying behaviors and value
 
- ![popularity](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/popularity.webp)
+ ![RFM](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/RFM.webp)
                                                   Distribution of RFM segments
 
 **Derived Customer Segments**
