@@ -68,3 +68,9 @@ The exploratory data analysis phase of the project helped me uncover following k
 
 
 ## Technical Analysis
+
+**Customer Segmentation**
+
+
+
+## Recommendations
