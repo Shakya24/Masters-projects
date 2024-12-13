@@ -87,14 +87,6 @@ These attributes were concatenated into unique RFM segments representing custome
   - At Risk Customers characterized by - Last purchase in first 8 months of study,High frequency of purchase and High total value amount of purchase
   - Low Value Customers characterized by - Only 2 purchases in entire time period and Low total value amount of purchase
 
-
-
-
-
-
-**Market Basket Analysis**
-
-
 **Customer Churn**
 1. **Cohort Analysis**: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
 
@@ -117,8 +109,14 @@ Steps included:
 
 The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, reflecting strong predictive capabilities
 
-4. **Feature Importance**: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn.
+4. **Feature Importance**: . Based on the SHAP value of the features, the feature importance was plotted as shown below. The chart shows that Frequency, Total Free quantity, Average basket size and total amount of fragrance bought are the most important features in predicting churn with frequency, quantity of free gift obtained and spending on fragrance inversely proportional to churn, while basket size being directly proportional to churn.
 
  ![shap](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/SHAP.webp)
+
+
+ 
+**Market Basket Analysis**
+
+
 
 ## Recommendations
