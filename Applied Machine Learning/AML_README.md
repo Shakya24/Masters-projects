@@ -60,3 +60,5 @@ I used features such as amount_spent in original form while created new features
 
    Randomized Search was used for hyperparameter tuning to balance performance and computational cost.
 
+## Model Comparison
+
