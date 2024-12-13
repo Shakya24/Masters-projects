@@ -71,6 +71,7 @@ The exploratory data analysis phase of the project helped me uncover following k
 
 **Customer Segmentation**
 Customer segmentation was performed using the RFM (Recency, Frequency, Monetary) framework to analyze customer behaviors and create actionable insights for targeted strategies.
+
 **RFM Framework Construction:**
   -  Recency (R):Quantified as the number of days since the customer’s last purchase. Binned into three quantile-based splits, ensuring an equal distribution of customers in each bin.
   -  Frequency (F):Number of purchase transactions per customer. Binned based on whether customers interacted 2, 3, or 4 times during the observation period.
@@ -81,11 +82,13 @@ Customer segmentation was performed using the RFM (Recency, Frequency, Monetary)
 
 These attributes were concatenated into unique RFM segments representing customer groups with varying behaviors and value
 
- ![RFM](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/RFM.webp)
-                                                  Distribution of RFM segments
-
 **Derived Customer Segments**
-  - 
+  - High Value customers characterized by - Very recent purchase, High frequency of purchase and High total value amount of purchase
+  - At Risk Customers characterized by - Last purchase in first 8 months of study,High frequency of purchase and High total value amount of purchase
+  - Low Value Customers characterized by - Only 2 purchases in entire time period and Low total value amount of purchase
+
+
+
 
 
 **Market Basket Analysis**
