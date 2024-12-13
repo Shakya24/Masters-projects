@@ -15,7 +15,8 @@ Established in 2018, Store-X beauty store (retail and online) offers a diverse r
 
 ## About-data
 
-The dataset provides comprehensive information on customer transactions for 2022 and 2023, covering details such as purchase dates, countries, stores, brands, product categories, sales channels, and other product-specific information. This rich dataset offers a holistic view of customer purchasing behavior across various dimensions, enabling in-depth analysis and actionable insights.
+The dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection).The simulation process was conducted utilizing the Sparkov Data Generation tool developed by Brandon Harris. This tool facilitated the generation of synthetic transactional data by defining a range of merchants, customers, and transaction categories. Our data contains 22 columns and ~1 million rows pertaining to credit card
+information of 1,000 customers doing transactions with a pool of 800 merchants.
 
 Steps taken to clean and prepare the dataset for analysis can be found [here](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Data%20cleaning%20Customer.pdf)
 
