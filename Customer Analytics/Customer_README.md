@@ -88,7 +88,7 @@ These attributes were concatenated into unique RFM segments representing custome
   - **Low Value Customers** characterized by - Only 2 purchases in entire time period and Low total value amount of purchase
 
 **Customer Churn**
-1. ##**Cohort Analysis**: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
+1. **Cohort Analysis**: Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
 
  ![cohort](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/cohort.webp)
 
@@ -128,7 +128,7 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 
 ## Recommendations
 
-1. Customer Engagement Cycle: Based on the [Cohort Analysis](#cohort-analysis), I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
+1. Customer Engagement Cycle: Based on the [Cohort Analysis](#Cohort%20Analysis), I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
 - Stock replenishment rate can follow customer purchase cycle to reduce aging inventory
 - Based on this purchasing cycle, promotion campaign can also be planned to secure customers' orders
 
