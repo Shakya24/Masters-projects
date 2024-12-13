@@ -121,7 +121,7 @@ The model achieved an **ROC AUC score of 0.98** and an **F1-score of 0.91**, ref
  
 **Market Basket Analysis**
 
-Market Basket Analysis (MBA) was performed to identify relationships and associations between products purchased together, uncovering insights into customer buying patterns.I calculated **LIFT** values across category and brand to determine which products and categories are most frequently purchased together, enabling targeted cross-selling and bundling strategies.A lift value greater than 1 indicates a strong positive association between products/categories.Below are the summary of observations. (Please notes brands have been anonymized)
+Market Basket Analysis (MBA) was performed to identify relationships and associations between products purchased together, uncovering insights into customer buying patterns.I calculated **LIFT** values across category and brand to determine which products and categories are most frequently purchased together, enabling targeted cross-selling and bundling strategies.A lift value greater than 1 indicates a strong positive association between products/categories.Below are the summary of observations. (_Please note that the brands have been anonymized_)
 
  ![shap](https://github.com/Shakya24/Masters-projects/blob/main/Customer%20Analytics/Visualizations/LIFT.webp)
 
