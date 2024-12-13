@@ -95,6 +95,9 @@ These attributes were concatenated into unique RFM segments representing custome
 
 
 **Customer Churn**
+Before building a churn prediction model, the first step was to define the churn. I performed cohort analysis by grouping customers based on their first purchase month and tracking their retention rates over time. I visualized these retention trends using a heatmap ((as shown below) to easily identify patterns and insights.
+
+
 
 
 
