@@ -32,13 +32,13 @@ I used features such as amount_spent in original form while created new features
 | City_pop        | Population of the customer city     |
 | Cc_count        | Count of credit cards per customer  |
 | address_multiple_customer_flag  | Checks if an address has more than one customer  |
-| Row 6, Cell 1  | Row 6, Cell 2  |
-| Row 7, Cell 1  | Row 7, Cell 2  |
-| Row 8, Cell 1  | Row 8, Cell 2  |
-| Row 9, Cell 1  | Row 9, Cell 2  |
-| Row 10, Cell 1 | Row 10, Cell 2 |
-| Row 11, Cell 1 | Row 11, Cell 2 |
-| Row 12, Cell 1 | Row 12, Cell 2 |
-| Row 13, Cell 1 | Row 13, Cell 2 |
+| fraud_likelihood_merchant  | Checks the % of fraud transactions by each merchant out of total transactions by the merchant. Flag if % is more than 1.|
+| fraud_likelihood_category  | Checks if an item category belongs to high, medium or low risk. Categories with >20% fraud transactions are high risk. Categories with 5-20% fraud transactions are medium risk|
+| transaction_distance  | Calculates distance between merchant and customer for transaction  |
+| fraud_likelihood_job  | Checks if a job category belongs to high, medium or low risk.Categories with >2% fraud transactions are high risk. Categories with >1% fraud transactions are medium risk|
+| fraud_likelihood_age | Classifies age-groups into highly likely and less likely with respect to fraud likelihood |
+| address_multiple_card_flag | Checks if multiple cards are linked to the same address |
+| multiple_cards_large_orders | Checks if large orders are made through multiple cards by one person |
+| first_time_shopper | Checks if a customer is a first time shopper or not |
 
 
