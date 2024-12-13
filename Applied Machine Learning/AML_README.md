@@ -47,3 +47,11 @@ I used features such as amount_spent in original form while created new features
     - The dataset was split into 70% training, 10% validation, and 20% test data, ensuring stratification to maintain class balance across splits.
 
 2. **Handling class Imbalance:** To address the extreme imbalance (0.57% of fraud class) in the dataset, SMOTE (Synthetic Minority Oversampling Technique) was applied to the training data. Fraudulent transactions in the training set were **increased to 50% using SMOTE**, ensuring models had sufficient representation of the minority class for learning patterns indicative of fraud.
+
+3. Model Selection: Six machine learning algorithms were implemented:
+    -Logistic Regression
+    -Decision Tree
+    -Random Forest
+    -XGBoost
+    -AdaBoost
+    -Multi-Layer Perceptron (MLP)
