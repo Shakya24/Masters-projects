@@ -1,4 +1,4 @@
-# Customer-Analytics
+![image](https://github.com/user-attachments/assets/aec903bd-5b0b-4fda-86e3-6ec45f13a081)![image](https://github.com/user-attachments/assets/eedc0d05-f050-4902-9bf8-b4713ae0068d)# Customer-Analytics
 
 Table of Contents
 
@@ -11,7 +11,7 @@ Table of Contents
 ***
 
 ## Project Background
-Established in 2018, this beauty store (retail and online) offers a diverse range of skincare, makeup, and personal care products to customers in Singapore and Malaysia. In this project, I partnered with this brand's Digital Campaign Manager to analyse real customer data to uncover trends in behavior, product preferences, and operational efficiency. The analysis addressed critical challenges, including customer retention, decision fatigue caused by an extensive product range, and the need for personalized shopping experiences.Based on the findings, I delivered actionable recommendations to enhance customer engagement and drive sustainable business growth.
+Established in 2018, Store-X beauty store (retail and online) offers a diverse range of skincare, makeup, and personal care products to customers in Singapore and Malaysia. In this project, I partnered with this brand's Digital Campaign Manager to analyse real customer data to uncover trends in behavior, product preferences, and operational efficiency. The analysis addressed critical challenges, including customer retention, decision fatigue caused by an extensive product range, and the need for personalized shopping experiences.Based on the findings, I delivered actionable recommendations to enhance customer engagement and drive sustainable business growth.
 
 ## About-data
 
@@ -127,3 +127,9 @@ Market Basket Analysis (MBA) was performed to identify relationships and associa
 
 
 ## Recommendations
+
+1. Customer Engagement Cycle: Based on the Cohort Analysis, I found that customers tend to repurchase within the 6-8 months period. With this information, Store-X can consider planning promotions and replenishing inventory based on the identified customer purchasing period to achieve allocative efficiency.
+- Stock replenishment rate can follow customer purchase cycle to reduce aging inventory
+- Based on this purchasing cycle, promotion campaign can also be planned to secure customers' orders
+
+
