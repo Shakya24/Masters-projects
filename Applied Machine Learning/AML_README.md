@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Prediction
+# Credit Card Fraud Prediction
 
 Table of Contents
 
