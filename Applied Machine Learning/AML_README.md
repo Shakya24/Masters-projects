@@ -64,3 +64,4 @@ I used features such as amount_spent in original form while created new features
 
 Models were evaluated using metrics critical for fraud detection, including Accuracy, Recall, Precision, F1 Score, and AUC (Area Under Curve). Given the business objective of minimizing missed fraudulent transactions, **Recall was prioritized.**
 
+[Model performace](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Model1.png)
