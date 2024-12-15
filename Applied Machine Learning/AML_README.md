@@ -65,3 +65,11 @@ I used features such as amount_spent in original form while created new features
 Models were evaluated using metrics critical for fraud detection, including Accuracy, Recall, Precision, F1 Score, and AUC (Area Under Curve). Given the business objective of minimizing missed fraudulent transactions, **Recall was prioritized.**
 
 ![Model1](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Model1.png)
+
+![Model2](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Model2.png)
+
+The choice of model should determined based on precision and recall scores, as well as the explainability of the model. Given that the model users are from a financialorganization that values explainability, the following models are the top choices based on the performance:
+
+- Logistic Regression: Logistic regression is chosen for its simplicity and ease of explainability. It offers straightforward interpretations of coefficients, making it ideal for transparent decision-making processes.
+- Adaboost: Adaboost is recommended when the focus is on catching more fraud cases, even if it results in a higher number of false positives. It effectively improves recall, which is critical for detecting fraudulent transactions.
+- Multilayer Perceptron (MLP): MLP is suggested for organizations seeking to balance false positives and false negatives. With a more complex structure than logistic regression, MLP provides a balance between precision and recall, optimizing overall performance.
