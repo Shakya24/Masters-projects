@@ -8,7 +8,7 @@ Table of Contents
 - [Model Building](#model-building)
 - [Model Comparison](#model-comparison)
 - [Feature Importance](#feature-importance)
-- [Recommendations](#recommendations)
+
 
 ***
 
