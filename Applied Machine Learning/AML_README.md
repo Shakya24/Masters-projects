@@ -80,4 +80,4 @@ Considering the seriousness of credit card fraud and the project's goal to mitig
 Feature importance identifies and ranks the most influential variables in a model's predictions, aiding in understanding and optimizing its performance.**"Amount spent"** is the most significant feature for all models, which is intuitive as fraud offenders would likely prioritize their risk-reward ratio. Another common feature is **city population**, which gives insight into cities of certain populations where
 fraudulent transactions are more likely to occur.
 
-![feature](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Features.png)
+![feature](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Feature.png)
