@@ -75,3 +75,9 @@ The choice of model should determined based on precision and recall scores, as w
 - Multilayer Perceptron (MLP): MLP is suggested for organizations seeking to balance false positives and false negatives. With a more complex structure than logistic regression, MLP provides a balance between precision and recall, optimizing overall performance.
 
 Considering the seriousness of credit card fraud and the project's goal to mitigate it, **Adaboost emerges as a highly suitable solution**. Its ability to achieve a high recall rate enhances the likelihood of detecting fraudulent transactions, aligning closely with the organization's objective to combat fraud effectively. However, the final choice depends on the organization's priorities and strategies, with careful evaluation of the trade-offs between precision and recall.
+
+## Feature Importance
+Feature importance identifies and ranks the most influential variables in a model's predictions, aiding in understanding and optimizing its performance.**"Amount spent"** is the most significant feature for all models, which is intuitive as fraud offenders would likely prioritize their risk-reward ratio. Another common feature is **city population**, which gives insight into cities of certain populations where
+fraudulent transactions are more likely to occur.
+
+![feature](https://github.com/Shakya24/Masters-projects/blob/main/Applied%20Machine%20Learning/Visualizations/Features.png)
