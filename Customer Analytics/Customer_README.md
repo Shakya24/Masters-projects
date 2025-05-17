@@ -43,7 +43,7 @@ The exploratory data analysis phase of the project helped me uncover following k
   Among known genders, 78% of retail purchases and 91% of eCommerce purchases are made by females, emphasizing the strong influence of female buyers.
 
   - Age Distribution:
-  The average customer age is 39.88 years, with 114 customers over 100 years old, likely input errors for promotional benefits.
+  The average customer age is 39.88 years, with 114 customers over 100 years old, likely input errors for promotional benefits (birthday month deals).
   Customers aged 25-45 contribute to 60% of total transactions, highlighting a key demographic for targeted marketing.
 
   - Customer Transactions:
